@@ -5,7 +5,7 @@ Guide
 
 https://musora.readme.io/docs/package-workflow
 
-([version at previous dev-docs site]([https://railroadmedia.github.io/raildocs/?current-md=programming-guides%2Fpackage-development-workflow.md))
+([version at previous dev-docs site](https://railroadmedia.github.io/raildocs/?current-md=programming-guides%2Fpackage-development-workflow.md))
 
 
 TL:DR
