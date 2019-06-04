@@ -11,12 +11,10 @@ https://musora.readme.io/docs/package-workflow
 TL:DR
 ---------------------------------------------
 
-1. clone to local
-1. copy this, rename
-1. create new repository from that
-1. disregard this repository, delete local clone
-1. edit */composer.json*
+1. copy this repo to start your package
+1. Set package name by in composer.php
+1. edit namespace and class names throughout\*
 1. run composer install
-1. edit namespace and class names throughout
-1. set up testing
-1. make your thing
+1. run UnitTest to confirm you're ready to start 
+
+\* Search-n-replace "YourProjectName" with *PascalCase* version of your package's name
